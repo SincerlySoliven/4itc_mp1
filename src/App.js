@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Header />
         <Switch>
-          <Route path='/' exact component={Home} />
+          <Route path='/4itc_mp1' exact component={Home} />
         </Switch>
       </Router>
     </>
