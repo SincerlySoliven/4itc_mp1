@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/4itc_mp1/static/css/main.b49872bd.css",
+    "main.js": "/4itc_mp1/static/js/main.7ab54a3b.js",
+    "index.html": "/4itc_mp1/index.html",
+    "main.b49872bd.css.map": "/4itc_mp1/static/css/main.b49872bd.css.map",
+    "main.7ab54a3b.js.map": "/4itc_mp1/static/js/main.7ab54a3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b49872bd.css",
+    "static/js/main.7ab54a3b.js"
+  ]
+}
