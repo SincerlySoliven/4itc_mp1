@@ -5,7 +5,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <img src='images/SincerlyPic.jpg' />
+      <img src='images/SincerlyPIC.jpg' />
       <p>A goal-oriented, responsible, and competitive IT student.
         Who experienced developing web applications. She loves
         working with a team to share her creative insights and

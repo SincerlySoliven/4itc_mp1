@@ -28,13 +28,13 @@ function Cards() {
           <h1>Work Experience</h1>
           <ul className='cards__items'>
             <CardItem
-              src='images/site-logo.png'
+              src='images/Agri Logo-3.png'
               text='Capstone 1 & 2'
               spec='Agri Shopping'
               label='Front-End Developer'
             />
             <CardItem
-             src='images/Agri Logo-3.png'
+             src='images/site-logo.png'
              text='Software Engineering 1 & 2'
              spec='iSITE Organizational Tracker'
              label='Quality Assurance officer'
